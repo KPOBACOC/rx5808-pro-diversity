@@ -1,7 +1,8 @@
 #ifndef UI_H
 #define UI_H
 
-
+#include <Wire.h>
+#include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #include <stdint.h>
 
